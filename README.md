@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <h1 align="center">
-    <img alt="Conduent - Análise do Processo Seletivo" title="#Rhua1" src=".github/rhua1.svg" width="400px" />
+    <img alt="Conduent - Análise do Processo Seletivo" title="#Rhua1" src=".github/rhua1.svg" width="400px" height="300px" />
 </h1>
 
 <h2 align="center">
