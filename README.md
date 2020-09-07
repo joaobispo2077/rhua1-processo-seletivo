@@ -34,6 +34,7 @@
 Esse projeto está sendo desenvolvido com a seguinte tecnologia:
 
 - [LaTeX](https://www.latex-project.org/)
+- [Whimsical](https://whimsical.com/)
 
 
 ## 💻 Projeto
@@ -43,8 +44,8 @@ O objetivo desse projeto é avaliar de forma crítica os critérios, métodos e 
 ## 🔖 Prazos
 
 - [x] Iniciar repositório - 01/09
-- [ ] Conclusão das atividades - 04/09
-- [ ] 1º Deadline - 06/09
+- [ ] ~~Conclusão das atividades - 04/09~~
+- [x] 1º Deadline - 06/09
 - [ ] Conclusão das atividades - 09/09
 - [ ] 2º Deadline - 13/09
 - [ ] Encerramento das atividades - 17/09
