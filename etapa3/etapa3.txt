@@ -1,0 +1,41 @@
+3º Etapa
+Enfim iniciam-se a etapa da primeira entrevista, isso, conforme o candidato prossegue no processo seletivo da Conduent. Nessa fase, ocorre uma entrevista individual entre o candidato e um recrutador da Agile One.
+
+			------------imagem de interview unsplash-------------
+
+Enquanto testes de técnicos visam mensurar o hardskill do candidato, entrevistas visam conhecer melhor das softskills do participante do processo seletivo, essas nomenclaturas são amplamente usadas por empresas e possuem até certa complexidade interna, mas afinal do que se trata o hardskill e a softskill que será avaliada durante a terceira etapa do processo de contratação da conduent.
+HardSkill
+Às hardskills são os componentes do conjunto técnico de habilidades de um candidato, são habilidades que podem ser aprendidas, como por exemplo, para um desenvolvedor mobile que visa atuar construindo aplicativos multiplataformas com a linguagem de programação JavaScript, seria um hardskill ele possuir todo o conjunto de tecnologias que aquela vaga precisa, assim possuindo conhecimento em React Native (framework JavaScript para a produção de aplicativos multiplataforma em Android e iOS) estaria suprindo a necessidade de hardskill dessa vaga. Ademais, aplicando ao cenário de uma vaga de analista de suporte técnico na Conduent, uma das habilidades técnicas que o candidato necessita possuir é a elevada velocidade em digitação de palavras por minuto (habilidade inclusive que foi testada, esse teste foi referido na segunda etapa do processo em que este documento apresenta).
+SoftSkill
+Às softskills são o núcleo de habilidades comportamentais de um candidato, que estão mais ligadas à inteligência emocional e formas de ação e reação diante de situações adversas (também podem ser aprendidas como às hardskills). Vale enfatizar que não existe frequência exata e perfeita de inteligência emocional, mas que para cada função operada pelas profissões demandam formas únicas de pontos ligados às softskills, portanto só é possível encontrar a combinação “mais ideal”. Os componentes das softskills mais requeridas no mercado envolvem:
+Pensamento criativo 
+Se manifesta em soluções inusitadas que se tornam possíveis com os recursos presentes.
+Trabalho em equipe
+Capacidade de desempenhar facilidade em trabalhar com outras pessoas.
+Espírito de time
+Capacidade de integrar produtividade ao seu workflow e o do seu time.
+Empatia
+Conectado a capacidade de compreender emoções.
+Gerenciamento de tempo.
+Conectado a alocação altamente eficiente de tarefas.
+Comunicação
+Conectado a facilidade de transmitir ideias coesas, claras e coerentes.
+Liderança
+Conectado a habilidade de inspirar e coordenar pessoas.
+Flexibilidade
+Capacidade de adaptar-se as mudanças.
+Proatividade
+Conectado a sempre prezar pelo excelente resultado mesmo que não solicitado.
+Solução de conflitos
+Capacidade de mediar discussões e encontrar resoluções.
+Solução de problemas
+Capacidade de desenvolver soluções.
+Resiliência ou Antifragilidade
+a resiliência é a capacidade do indivíduo lidar com problemas, reinventar-se a mudanças, ultrapassar os obstáculos ou simplesmente resistir à pressão de situações adversas..
+Antifragilidade
+Essa última softskill vem sendo cada vez mais requerida no mercado de trabalho. E o tal do antifrágil, além do oposto de frágil, é algo que melhora quando está diante de uma situação inesperada. Esse conceito foi criado pelo autor libanês Nassim Nicholas Taleb no livro “Antifrágil: coisas que se beneficiam com o caos”.
+
+Há SoftSkill correta para a Conduent?
+Como supracitado, só é possível encontrar o conjunto de SoftSkills “mais ideal” dado um determinado contexto de vaga, nível e funções, como por exemplo, um Pleno Tech Lead em Desenvolvimento Web, precisa obrigatoriamente ter como SoftSkill uma liderança forte, boa comunicação, empatia e dentre muitas outras. 
+Já um Analista de Suporte técnico Júnior, essencialmente além de se comunicar bem e ser resiliente, necessita ter um bom solucionamento de problemas, uma boa habilidade de solução de conflitos e para sanar a pouca experiência necessita-se de um ótimo pensamento criativo. 
+Em outras palavras, dependendo da vaga, existe sim habilidades que à Conduent busca num candidato, mas mais importante que essas habilidades 

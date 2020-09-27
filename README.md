@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  Conduent - Análise do Processo Seletivo
+  Conduent - Análise de Processo Seletivo
 </h2>
 
 <p align="center">
@@ -31,10 +31,11 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto está sendo desenvolvido com a seguinte tecnologia:
+Esse projeto está sendo desenvolvido com as seguintes tecnologia e/ou plataformas:
 
 - [LaTeX](https://www.latex-project.org/)
 - [Whimsical](https://whimsical.com/)
+<!-- - [Glassdoor](https://www.glassdoor.com.br/Entrevista/Conduent-Perguntas-entrevista-E1492856.htm) descomentar somente na entrega final, quero saber o quão code user são os nossos colegas ;! -->
 
 
 ## 💻 Projeto
@@ -46,15 +47,16 @@ O objetivo desse projeto é avaliar de forma crítica os critérios, métodos e 
 - [x] Iniciar repositório - 01/09
 - [ ] ~~Conclusão das atividades - 04/09~~
 - [x] 1º Deadline - 06/09
-- [ ] Conclusão das atividades - 09/09
-- [ ] 2º Deadline - 13/09
-- [ ] Encerramento das atividades - 17/09
+- [ ] ~~Conclusão das atividades - 09/09~~
+- [x] 2º Deadline - 13/09
+- [ ] ~~Encerramento das atividades - 17/09~~
+- [ ] ~Encerramento das atividades - 18/09
 - [ ] 3º Deadline e finalização da primeira parte do projeto - 20/09
 
 ## ♻️ Como contribuir
 
 - Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Crie uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
@@ -62,7 +64,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. (Em breve)
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
